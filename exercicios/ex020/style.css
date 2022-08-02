@@ -1,0 +1,20 @@
+.div1, .div2, .div3 {
+    display: inline-block;
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+.div1:hover {
+    background-color: red;
+}
+
+.div2:hover {
+    background-color: red;
+}
+
+.div3:hover {
+    background-color: red;
+}
